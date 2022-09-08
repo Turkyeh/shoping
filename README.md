@@ -28,5 +28,9 @@ Trello
 https://trello.com/b/kB50z2Ne/e-commerce-website
 ******************************************************************************************************
 
+all Plugin >>>>>>>>>>
+
+![image](https://user-images.githubusercontent.com/91463018/189240170-01a886e3-9087-479a-929a-1b4876a05133.png)
+
 
 
