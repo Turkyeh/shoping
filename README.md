@@ -23,5 +23,9 @@ MOCKUP
 https://www.figma.com/file/9TKiACMEcZ0ynLTiCROX9n/E-Commerce-Website
 
 
+Trello 
+https://trello.com/b/kB50z2Ne/e-commerce-website
+
+
 
 
