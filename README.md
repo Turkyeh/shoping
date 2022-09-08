@@ -31,7 +31,7 @@ https://trello.com/b/kB50z2Ne/e-commerce-website
 
 ******************************************************************************************************
 Themes  name :
-Astra it is avery nice to use and edit with use Starter Templates Plugin and use estore Templete 
+Astra It is very beautiful and good to use and edit with use Starter Templates Plugin and use estore Templete 
 
 ******************************************************************************************************
 
